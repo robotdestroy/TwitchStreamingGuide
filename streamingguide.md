@@ -24,7 +24,6 @@ This is obvious, but you will need an account on
 know IRL. This will be helpful later on.
 
 ![](https://cdn-images-1.medium.com/max/1000/1*ehy78qjrKPDyMVImBfn_Gg.png)
-<span class="figcaption_hack">This is OBS and I’m also in the process of moving</span>
 
 #### OBS
 
@@ -49,7 +48,6 @@ maybe you just want to stream yourself on camera. You need something to stream.
 Here is how you set that up:
 
 ![](https://cdn-images-1.medium.com/max/1000/1*oqWAmJOkPwVwvH3nEJrZSw.png)
-<span class="figcaption_hack">Adding a game capture window source</span>
 
 **Games**
 
@@ -144,7 +142,6 @@ advantageous. Think of them as similar to how news tickers or sports statistics
 keep your mind active as a viewer.
 
 ![](https://cdn-images-1.medium.com/max/1000/1*V2aezuQOM1Jyv5__gOqhqQ.png)
-<span class="figcaption_hack">The name of our Discord sits at the the top left of the screen.</span>
 
 **Logo/Branding**
 
@@ -161,7 +158,6 @@ Unless you specifically want a rectangular image, you will want to choose a PNG
 image with transparency. This can be created in most image or design tools.
 
 ![](https://cdn-images-1.medium.com/max/1000/1*H-FPkNYpf-HPGavmoiBNUQ.png)
-<span class="figcaption_hack">A round of PUBG with Clay Houser, Jeff Shafar, and Gabriel Valdivia.</span>
 
 You can use this same technique for any sort of image. For example, I like to
 put little stickers of the people who I am playing with next to my video so
@@ -174,7 +170,6 @@ viewers. You can let the person know you appreciate the attention and also let
 them bask in the glory of interacting with the televisual in real time.
 
 ![](https://cdn-images-1.medium.com/max/1250/1*94-jQM7QFtYJFgAOwzGKkA.png)
-<span class="figcaption_hack">I just followed myself.</span>
 
 The best service I have found to set up alerts is
 [Streamlabs](https://streamlabs.com/). This is a separate site which you can log
@@ -198,7 +193,6 @@ customizations can even be set up for specific type of alerts. ‘Subscriptions�
 can be more special than ‘Follows’ for example.
 
 ![](https://cdn-images-1.medium.com/max/1000/1*MizF-NqfmATiIQ4gUNFADA.png)
-<span class="figcaption_hack">A follower goal and some of my recent follows.</span>
 
 You can also use Streamlabs for a variety of other overlays such as a recent
 activity list, goals, chat box and viewer count. Take a peek through their
@@ -261,8 +255,6 @@ scene for different games I play so I can fire up the relevant BRB images.
 ![](https://cdn-images-1.medium.com/max/500/1*0DbPjBR4nMovlHHEQJIw0w.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/500/1*9EieHn8sxq5OkW3BpaLMVw.jpeg)
-<span class="figcaption_hack">Some of my BRB screens for various games. I can still use the text tool in OBS
-to overlay more information about when I will return.</span>
 
 I also set up scenes for certain games that I’m playing a lot which allows me to
 customize the layout specifically to the game’s UI.
@@ -338,7 +330,7 @@ Another important experience to consider is your profile. People might come
 across your stream but not be sure why they should care about you. Indulge them
 with some good information to sink their teeth into.
 
-I include an *about *section, games I am currently playing, my friends who also
+I include an *about* section, games I am currently playing, my friends who also
 stream, other social profiles and information about my setup. I’d err on the
 side of overindulgence rather than being shy. People are looking at this area to
 find out more about you, give it to them.
@@ -363,7 +355,6 @@ it is a 16:9 image that is shown in the spot of the video player when you are
 not online.
 
 ![](https://cdn-images-1.medium.com/max/1250/1*vcVTfhRz5slgSDsoBpHWJg.png)
-<span class="figcaption_hack">What my video player looks like when I’m away.</span>
 
 ### 3. Viewership
 
