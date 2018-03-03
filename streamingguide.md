@@ -1,7 +1,5 @@
 ![](https://cdn-images-1.medium.com/max/1250/1*mZ5h_tgeAB_jFC2eOKnvng.png)
 
-#### The Chill and Sorta Comprehensive
-
 # Beginner’s Guide to Streaming on Twitch
 
 Lately I’ve been fascinated with watching people stream on
