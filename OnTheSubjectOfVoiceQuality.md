@@ -2,7 +2,7 @@
 
 _A MeowPewPew guest post by Nathan aka [Witha3](https://twitch.com/witha3)_
 
-Previously on Twitch how-to's with MeowPewPew, [Charlie](https://twitch.tv/gargarbot) lead with a [solid starter guide](https://medium.com/@charliedeets/beginners-guide-to-streaming-on-twitch-dc2a7108fbd7) for streaming on Twitch. He covered a ton of stuff, from configuing your stream software to adding character with custom graphics. But there's so much more still that could be discussed when it comes to getting your stream just right. So today we're going to expand on a specific topic that's been near and dear to me since I started streaming regularly two years ago: voice quality.
+Previously on Twitch how-to's with MeowPewPew, [Charlie](https://twitch.tv/gargarbot) lead with a [solid starter guide](https://medium.com/@charliedeets/beginners-guide-to-streaming-on-twitch-dc2a7108fbd7) for streaming on Twitch. He covered a ton of stuff, from configuring your stream software to adding character with custom graphics. But there's so much more still that could be discussed when it comes to getting your stream just right. So today we're going to expand on a specific topic that's been near and dear to me since I started streaming regularly two years ago: voice quality.
 
 ### Why care about voice quality?
 
@@ -22,7 +22,7 @@ The longer answer to that question though is that, IMO, you don't need a real mi
 
 ### The Long Answer
 
-So you bought your Blue Yeti™️ so you could get something closer that crispy af voice quality of your favorite streamer. Cool. That's what I did. You and me, we're not so different. But then you plugged it in and your heart quickly sank because it didn't actually sound that much better than your $2 lapel mic, and certinaly nothing resembling Cool-Guy McASMR streamer (this is just a joke, I don't actually watch ASMR streams [I don't even know what it stands for (please don't tell me)]).
+So you bought your Blue Yeti™️ so you could get something closer that crispy af voice quality of your favorite streamer. Cool. That's what I did. You and me, we're not so different. But then you plugged it in and your heart quickly sank because it didn't actually sound that much better than your $2 lapel mic, and certainly nothing resembling Cool-Guy McASMR streamer (this is just a joke, I don't actually watch ASMR streams [I don't even know what it stands for (please don't tell me)]).
 
 Fret not, there's secrets yet shared. And they don't even require an audio engineering degree. Are you ready? Turn the gain all the way down and get real close to it. I'm talking inches from your mouth, the fewer the better (you'll probably want to buy a [pop filter](https://www.amazon.com/Earamble-Studio-Microphone-Filter-Shield/dp/B06WVFRW4H/) or foam windscreen). Then turn the input level in Windows (Sound Settings > Recording Devices) down until you're just loud enough for your viewers hear without them groaning. They'll turn you up, trust me (but be sure to turn your game volume down to compensate).
 
@@ -34,6 +34,6 @@ What effect will this have? Well if you haven't gone and tried it yourself, I'll
 
 >Tip: If you've attached the boom to your desk and now you're picking up every click and tap in your mic, you could drop the coin on a [shock mount](http://a.co/hpDTGnC), OR you could just shove some cardboard or other sound padding in between the clamp and your desk.
 
-I was pretty content when I got to this point, and rode this setup out for quite a while. However, I never stopped looking for the next way to improve my sound (without going for the big hardware purchase). And recently, I made a breakthrough.
+I was pretty content when I got to this point, and rode this setup out for quite a while. However, I never stopped looking for the next way to improve my sound. And recently, I made a breakthrough. One that I think has gotten me significantly further than half walk. Like, maybe almost _all_ the way. Without buying any new hardware.
 
 ### That Next Level Sh*t
