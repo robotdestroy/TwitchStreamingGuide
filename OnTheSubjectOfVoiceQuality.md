@@ -24,7 +24,7 @@ The longer answer to that question though is that, IMO, you don't need a real mi
 
 So you bought your Blue Yeti™️ so you could get something closer that crispy af voice quality of your favorite streamer. Cool. That's what I did. You and me, we're not so different. But then you plugged it in and your heart quickly sank because it didn't actually sound that much better than your $2 lapel mic, and certainly nothing resembling Cool-Guy McASMR streamer (this is just a joke, I don't actually watch ASMR streams [I don't even know what it stands for (please don't tell me)]).
 
-Fret not, there's secrets yet shared. And they don't even require an audio engineering degree. Are you ready? Turn the gain all the way down and get real close to it. I'm talking inches from your mouth, the fewer the better (you'll probably want to buy a [pop filter](https://www.amazon.com/Earamble-Studio-Microphone-Filter-Shield/dp/B06WVFRW4H/) or foam windscreen). Then turn the input level in Windows (Sound Settings > Recording Devices) down until you're just loud enough for your viewers hear without them groaning. They'll turn you up, trust me (but be sure to turn your game volume down to compensate).
+Fret not, there's secrets yet shared. And they don't even require an audio engineering degree. Are you ready? Turn the gain all the way down and get real close to it. I'm talking inches from your mouth, the fewer the better (you'll probably want to buy a [pop filter](https://www.amazon.com/Earamble-Studio-Microphone-Filter-Shield/dp/B06WVFRW4H/) or foam windscreen). Then turn the input level in Windows (Sound Settings > Recording Devices) down until you're just loud enough for your viewers to hear without them groaning. They'll turn you up, trust me (but be sure to turn your game volume down to compensate).
 
 What effect will this have? Well if you haven't gone and tried it yourself, I'll go ahead and spoil it for you: it'll make you louder. Like a whole lot louder. But more than that, it'll also broaden the spectrum of your voice. The highs will be clearer, and the lows will be deeper. Basically, it'll get you closer to that top tier radio quality sound. But not all the way. Maybe about halfway. But that's still some serious progress from a $100 USB microphone.
 
@@ -34,6 +34,6 @@ What effect will this have? Well if you haven't gone and tried it yourself, I'll
 
 >Tip: If you've attached the boom to your desk and now you're picking up every click and tap in your mic, you could drop the coin on a [shock mount](http://a.co/hpDTGnC), OR you could just shove some cardboard or other sound padding in between the clamp and your desk.
 
-I was pretty content when I got to this point, and rode this setup out for quite a while. However, I never stopped looking for the next way to improve my sound. And recently, I made a breakthrough. One that I think has gotten me significantly further than half walk. Like, maybe almost _all_ the way. Without buying any new hardware.
+I was pretty content when I got to this point, and rode this setup out for quite a while. However, I never stopped looking for the next way to improve my sound. And recently, I made a breakthrough. One that I think has gotten me significantly further than half way to the god sound. Like, maybe _almost all_ the way. Without buying any new hardware.
 
 ### That Next Level Sh*t
